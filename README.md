@@ -87,3 +87,5 @@ Security scanning with Trivy and OWASP best practices
 
 
 -------
+🤝 **Connect with Me**
+    [LinkedIn](linkedin.com/in/shrutika-tayde-b5a369234)
