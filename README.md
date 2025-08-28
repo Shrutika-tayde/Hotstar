@@ -84,3 +84,4 @@ Code quality checks with SonarQube
 Application monitoring with Prometheus and Grafana
 
 Security scanning with Trivy and OWASP best practices
+---
